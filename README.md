@@ -18,7 +18,7 @@ Installation
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/pavithracse923/scientific-calculator.git
+git clone https://github.com/pavithracse923/calculator.git
 Navigate to the project folder:
 bash
 Copy code
